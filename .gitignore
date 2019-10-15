@@ -36,4 +36,4 @@ checkpoint
 package-lock.json
 config.js
 userdata
-#/secret
+/secret
