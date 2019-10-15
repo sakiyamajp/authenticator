@@ -14,7 +14,6 @@ cloneかzipダウンロードして
 ```
 npm install --production
 ```
-です。
 
 ## 設定
 QRコードの画像かシークレットを書いたtextファイルを自分で分かりやすい名前を付けて
@@ -25,7 +24,7 @@ sampleが２個あるので参考にしてください。
 ```
 npm start
 ```
-です。
+windowsなら start.batに書いてます。start.batダブルクリックで起動します。
 
 ## 見方
 左がGoogle authenticatorと同じ乱数　
@@ -33,3 +32,4 @@ npm start
 
 MIT
 使用は自己責任でお願いします。
+サポートはありません。
